@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<Patch>
+    <Operation Class="PatchOperationAttributeSet">
+        <xpath>Defs/ThinkTreeDef[defName="Humanlike"]/thinkRoot[@Class="ThinkNode_Priority"]/subNodes/li[@Class="ThinkNode_ConditionalColonist"]/subNodes/li[@Class="ThinkNode_Tagger"]/subNodes/li[@Class="JobGiver_Orders"]</xpath>
+        <attribute>Class</attribute>
+        <value>Hjx_SmartCombat.JobGiver_SmartOrders</value>
+    </Operation>
+</Patch>

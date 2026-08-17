@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Defs>
+    <JobDef>
+        <defName>Wait_SmartCombat</defName>
+        <driverClass>Hjx_SmartCombat.JobDriver_SmartWait</driverClass>
+        <reportString>watching for targets.</reportString>
+        <alwaysShowWeapon>true</alwaysShowWeapon>
+        <suspendable>false</suspendable>
+        <isIdle>true</isIdle>
+        <carryThingAfterJob>true</carryThingAfterJob>
+        <dropThingBeforeJob>false</dropThingBeforeJob>
+        <tryStartFlying>true</tryStartFlying>
+        <overrideFlyChance>1</overrideFlyChance>
+    </JobDef>
+</Defs>

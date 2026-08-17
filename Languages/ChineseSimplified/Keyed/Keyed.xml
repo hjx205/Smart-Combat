@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<LanguageData>
+    <!-- Command_AutoChangeWeapeon -->
+    <SC_CACW_L>自动切换武器</SC_CACW_L>
+    <SC_CACW_D>启用后，角色在征召战斗时，会根据索敌自动切换选择的武器。但同类武器之间不会自动切换。\n</SC_CACW_D>
+    <SC_CACW_Dp>\n切换武器方案</SC_CACW_Dp>
+    <SC_CACW_Dp_M>\n近战武器: {0}</SC_CACW_Dp_M>
+    <SC_CACW_Dp_R>\n远程武器: {0}</SC_CACW_Dp_R>
+    <SC_CACW_None>无</SC_CACW_None>
+</LanguageData>

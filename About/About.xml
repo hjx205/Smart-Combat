@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<ModMetaData>
+	<name>Smart Combat</name>
+	<author>Hjx</author>
+	<packageId>Hjx.smart.combat</packageId>
+	<supportedVersions>
+		<li>1.6</li>
+	</supportedVersions>
+	<description>智能战斗-让殖民者战斗时更加智能</description>
+</ModMetaData>

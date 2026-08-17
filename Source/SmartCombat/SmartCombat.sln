@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.35229.62
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SmartCombat", "SmartCombat.csproj", "{9410F506-CFCF-4295-97B6-68E478A51EAA}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{9410F506-CFCF-4295-97B6-68E478A51EAA}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{9410F506-CFCF-4295-97B6-68E478A51EAA}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{9410F506-CFCF-4295-97B6-68E478A51EAA}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{9410F506-CFCF-4295-97B6-68E478A51EAA}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {67E4BE0C-8037-47A6-9683-D35BEE0DB9C8}
+	EndGlobalSection
+EndGlobal
